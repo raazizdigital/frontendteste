@@ -1,0 +1,274 @@
+.inputsumiu{
+    background: #fff !important;
+    border: 0 !important; 
+    padding-left: 1%;
+    width: 45% !important;
+
+}
+
+.formcontato{
+    border: solid;
+    border-color: rgba(221, 221, 221, 0.24);
+    border-radius: 10px;
+    padding-top: 10px;
+
+}
+.formulario  {   
+    margin: auto;
+    width: 600px;    
+} 
+
+.formulario01{
+    margin: auto;
+
+
+
+}
+.div-fromd{
+    float: right;
+    margin: auto;
+
+
+}
+.div-frome{
+    float: left;
+    margin: auto;
+
+
+}
+.campos:hover{
+    border-color: #31b0d5    
+}
+
+.centroform{
+    text-align: center;
+    color: #404040;
+}
+
+.centroformbotao{
+    margin: 0 auto;
+    width: 50%; 
+    background: #e6e6e6;
+}
+
+.centroformbotao01{
+    position:absolute;
+    position: absolute;
+    left: 32%;
+    width: 20%;  
+    background: #e6e6e6;
+
+}
+
+.active{
+    color: rgba(255, 0, 0, 0.60) !important;
+}
+.active:hover{
+    color: rgba(255, 0, 0, 0.60) !important;
+}
+
+.carousel .slide{
+
+    color: rgba(255, 0, 0, 0.60) !important;
+}
+
+.nomeempresaqm{
+    text-align: center;
+    color: rgba(255, 0, 0, 0.60);
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+
+.textempresaqm{
+    margin: 50px 50px 50px 100px;
+}
+.hoverdosas{
+    padding: 8px !important ;
+
+}
+.hoverdosas:hover{
+    color: #fff !important;
+    background: rgba(255, 0, 0, 0.60) !important;
+    height: 30px !important;
+    padding: 8px !important ;
+
+}
+.mobiliar{
+    width: 250px;
+    height: 250px;
+}
+
+.stybnt{ width: 90px ;}
+.stybnt:hover{    opacity: 0.5; }
+
+.address{
+    max-width: 55px;
+    margin: 0 0 15px 25px;
+
+}
+
+.divendfooter{
+
+    margin: 5px 0 0 15px;
+}
+
+.fa-lock:hover {
+    background: rgba(255, 0, 0, 0.60);
+}
+
+.footer{    margin-top: 100px;}
+.formfooter{
+    width: 350px;
+    float: right;
+    margin-top: -190px;
+}
+
+.inffooter{
+    margin-top: 25px;
+}
+
+.espacamentolabel{
+    margin: 5px 0 5px 0;
+}
+
+.formlog {
+
+    display: block;
+    margin-bottom: 185px;
+    margin-top: 185px;
+    overflow: hidden;
+
+}
+
+.menuptop a:hover{
+    background-color: rgba(255, 255, 255, 0) !important;
+    border-top-color: rgba(255, 0, 0, 0.60) !important;
+    border-top: solid;
+
+}
+.product-information {    height: 380px; border: 1px solid #f2f2f2 !important;     padding-left: 30px !important;}
+.view-product img{     border: 1px solid #f2f2f2 !important;}
+
+.product_information_tecnic{
+    border: 1px solid #F7F7F0;
+    margin-left: -359px;
+    margin-top: 25px;
+    padding: 25px;
+
+}
+
+.contatointerpord{
+    margin-top: 30px;
+}
+
+.formlist{   
+    margin: 0 50px;}
+
+
+
+.formlisttitle{    
+    text-align: center; 
+    margin: 0 0 40px 0;}
+
+.formlistbnt{
+    margin-top: 75%;
+    background: rgba(255, 0, 0, 0.60);
+    color: #fff;
+    padding: 10 30;
+    border-radius: 30px;
+    cursor:pointer;
+}
+
+.formlistbnt2{
+    margin: 15 5;
+    color:rgba(255, 0, 0, 0.60);
+    padding: 10 30;
+    border-radius: 30px;
+    cursor:pointer;
+}
+.formlistbnt2:hover{
+    -webkit-transform: scale(1.15);
+    -ms-transform: scale(1.15);
+    transform: scale(1.15); }
+
+.formlistbnt:hover{
+    -webkit-transform: scale(1.15);
+    -ms-transform: scale(1.15);
+    transform: scale(1.15); }
+
+.cursorpointer{cursor:pointer;}
+
+.formlistradio{
+    width: 15px;
+    height: 15px;
+    margin: 220% 0 0 15px !important
+}
+.formlistradio3 {
+    width: 15px;
+    height: 15px;
+    margin: 40% 0 0 15px !important; }
+
+.formlistradio3:hover {
+    width: 15px;
+    height: 15px;
+    margin: 40% 0 0 15px !important; }
+
+.formlistradio2{
+    width: 15px;
+    height: 15px;
+    margin: 97% 0 0 15px !important
+}
+
+.formlistradio2:hover{
+    -webkit-transform: scale(1.15);
+    -ms-transform: scale(1.15);
+    transform: scale(1.15); }
+
+.formlistradio:hover{
+    -webkit-transform: scale(1.15);
+    -ms-transform: scale(1.15);
+    transform: scale(1.15); }
+
+.gerarpdf{
+    background: rgba(152, 16, 152, 0.78);
+    width: 165px;
+    margin-left: 50px;
+    margin-top: 10px;
+    padding: 5px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.gerarpdf:hover{
+    background: #981098;
+}
+
+.logo{width: 100%;}
+
+.textareaquemsomos{
+    max-width: 100%;
+    height: 300px !important;
+}
+.inoutmedio{     max-width: 30%;}
+.inoutgrande{     max-width: 85%;}
+.radiobntadm {    margin:0 40px 25px 15px !important ;}
+
+.fa-share:hover {background:rgba(255, 0, 0, 0.60) ;}
+.fa-sign-out:hover{background:#b30000 ;}
+.bntlogar:hover {    background: rgba(255, 0, 0, 0.60);
+                     color: #FFFFFF;}
+
+.menucima{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.menucima:hover{
+    font-size: 20px;
+    margin: 15px;
+    color: background: rgba(255, 0, 0, 0.60) !important;
+   -webkit-transform: scale(1.15);
+    -ms-transform: scale(1.15);
+    transform: scale(1.15);
+}
+
